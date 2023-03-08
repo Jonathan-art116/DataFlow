@@ -1,0 +1,2 @@
+### Web server
+- FastApi application.
